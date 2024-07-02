@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Math Tutoring",
+    "description": "Learn advanced math concepts."
+  },
+  {
+    "id": 2,
+    "title": "Science Workshop",
+    "description": "Explore the wonders of science."
+  },
+  {
+    "id": 3,
+    "title": "History Class",
+    "description": "Dive into historical events and figures."
+  }
+]

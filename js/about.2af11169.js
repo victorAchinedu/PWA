@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkafter_school_lessons"]=self["webpackChunkafter_school_lessons"]||[]).push([[594],{603:function(s,n,e){e.r(n),e.d(n,{default:function(){return h}});var t=e(6768);const u={class:"about"},a=(0,t.Lk)("h1",null,"This is an about page",-1),o=[a];function r(s,n){return(0,t.uX)(),(0,t.CE)("div",u,o)}var c=e(1241);const l={},f=(0,c.A)(l,[["render",r]]);var h=f}}]);
+//# sourceMappingURL=about.2af11169.js.map
